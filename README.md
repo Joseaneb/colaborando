@@ -2,7 +2,7 @@
 
 ## Alunos do grupo
 
-- Anderson Gaspar
+- Gaspar Anderson
 -- POO
 -- ADS
 -- STC
