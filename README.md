@@ -2,13 +2,13 @@
 
 ## Alunos do grupo
 
-- Anderson Gaspar
+- Joseane Bortoli
 -- POO
 -- ADS
 -- STC
 -- CRF
-- Joseane Bortoli
-  Lista de Dsiciplinas 2019
+- Anderson Gaspar
+-- Lista de Dsiciplinas 2019
   - POO 
   - Redes
    
